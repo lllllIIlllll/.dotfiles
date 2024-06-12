@@ -1,0 +1,32 @@
+# Normal colors
+[colors.normal]
+black = '#7F5A87'
+red = '#8D6894'
+green = '#9A78A1'
+yellow = '#A888AF'
+blue = '#B699BC'
+magenta = '#C4ACC9'
+cyan = '#C4ACC9'
+white = '#686D76'
+
+# Bright colors
+[colors.bright]
+black = '#A888AF'
+red = '#B699BC'
+green = '#C4ACC9'
+yellow = '#D3BED6'
+blue = '#E1CFE3'
+magenta = '#F0E0F0'
+cyan = '#F0E0F0'
+white = '#FFFFFF'
+
+# Dim colors
+[colors.dim]
+black = '#45475A'
+red = '#7F5A87'
+green = '#8D6894'
+yellow = '#9A78A1'
+blue = '#A888AF'
+magenta = '#B699BC'
+cyan = '#B699BC'
+white = '#D3BED6'

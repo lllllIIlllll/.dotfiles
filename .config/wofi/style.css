@@ -1,0 +1,73 @@
+* {
+	outline: none;
+	border: none;
+	box-shadow: none;
+  font-family: "SF Pro Display"
+}
+
+#window {
+	background-color: #232136;
+	border-radius: 10px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #e0def4;
+}
+
+#input {
+	padding: 8px 6px;
+	margin: 16px;
+	padding-left: 14px;
+	color: #e0def4;
+	border-radius: 6px;
+}
+
+#input image {
+	margin-right: 12px;
+}
+
+#inner-box {
+	margin: 4px;
+	padding: 8px;
+	padding-top: 0px;
+	color: #908caa;
+}
+
+#outer-box {
+	border-radius: 6px;
+}
+
+#scroll {
+	margin-top: 4px;
+	border-radius: 6px;
+	margin-bottom: 4px;
+}
+
+#entry {
+	margin: 4px;
+	padding: 8px;
+	outline: none;
+	border-radius: 6px;
+}
+
+#entry image {
+	margin-left: 4px;
+}
+
+#entry:selected, #entry:selected list, #input {
+	background: linear-gradient(145deg, #56526e 30%, #44415a 100%);
+}
+
+#entry:selected {
+	font-weight: bold;
+}
+
+#entry:selected list {
+	font-weight: normal;
+	margin-top: 6px;
+	/* expanader probably has an odd width */
+	margin-left: 5px;
+}
+
+#text {
+	margin-left: 8px;
+}
